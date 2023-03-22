@@ -8,10 +8,3 @@ NEXT.JS 13, TypeScript, Tailwind CSS
 ## Deployment
 
 Fork and deploy
-# Next-13-project
-# Next-13-project
-# Next-13-project
-# next.js-13-project
-# next.js-13-project
-# next.js-13-project
-# next13test
